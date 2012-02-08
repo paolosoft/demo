@@ -1,0 +1,1 @@
+[2012-02-07 09:21:36] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /demo/hello/diego" (uncaught exception) at /home/sfprojects/demo/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/EventListener/RouterListener.php line 83 [] []
